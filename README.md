@@ -6,6 +6,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
 # Simple-Navigation-Bar
 A simple Navigation bar by using HTML and CSS only
+
+Watch This on YouTube:
+<a href="https://www.youtube.com/watch?v=I7EGilCaAY4" target="blank">https://www.youtube.com/watch?v=I7EGilCaAY4</a> 
 <br>
 <h2 align="left"> Tech Stacks :</h2>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
@@ -16,5 +19,9 @@ A simple Navigation bar by using HTML and CSS only
 <a href="https://instagram.com/dhee_rajrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhee_rajrao" height="60" width="80" /></a>
 <a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
 </p>
+<h2 align="left">Contributors :</h2>
+<p align="left"><a href="https://github.com/dheerajrao20" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/89007097?v=4" alt="img" height="80" width="80" /></a> 
+</p>
+
 
 
