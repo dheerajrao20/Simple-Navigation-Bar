@@ -64,7 +64,8 @@ cd Simple-Navigation-Bar
 
 **4.** AND there is the project running in your browser.
 
-# 🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉
+<h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
+
 
 
 
