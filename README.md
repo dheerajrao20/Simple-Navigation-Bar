@@ -20,8 +20,51 @@ Watch This on YouTube:
 <a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
 </p>
 <h2 align="left">Contributors :</h2>
-<p align="left"><a href="https://github.com/dheerajrao20" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/89007097?v=4" alt="img" height="80" width="80" /></a> 
-</p>
+<a href="https://github.com/dheerajrao20/Simple-Navigation-Bar/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=dheerajrao20/Simple-Navigation-Bar" />
+  </a>
+  
+# 🎇How To Contribute 🎇
+
+To start contributing, follow the below guidelines:
+
+🌟. Star🌟 the repo to appreciate the work.
+
+0. Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+
+1. Find a feature or a bug that you think you can do/implement.
+
+2. Open an issue.
+
+3. Get it assigned.
+
+4. Work on it and add comments for better understanding of code.
+
+5. Make a pull request.
+
+6. Wait for it to be merged
+
+7. And WOAHLAAAAAAAA! 🎉 You contributed to this project.
+
+# How To Setup The Project
+
+**1.** **Fork** [this](https://github.com/dheerajrao20/Simple-Navigation-Bar) repository.
+
+**2.** **Clone** your forked copy of the project.
+
+```
+git clone https://github.com/your_username/Simple-Navigation-Bar
+```
+
+**3.** **Navigate** to the project directory :
+
+```
+cd Simple-Navigation-Bar
+```
+
+**4.** AND there is the project running in your browser.
+
+# 🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉
 
 
 
